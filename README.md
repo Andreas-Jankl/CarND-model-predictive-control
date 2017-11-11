@@ -1,7 +1,7 @@
 # CarND-Controls-MPC
 Self-Driving Car Engineer Nanodegree Program
 
-Implement a model predictive controller in C++ that can navigate a car safely around the track of the simulator given.
+Implement a model predictive controller in C++ that can navigate a car safely around the track of the simulator given here: https://github.com/udacity/self-driving-car-sim
 
 ---
 
